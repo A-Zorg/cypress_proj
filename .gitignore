@@ -1,2 +1,4 @@
 /cypress/fixtures/*.json
 node_modules
+.idea
+
